@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# DAO
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+verified sample contract : https://rinkeby.etherscan.io/address/0x3e9349d2B2128B61CE135383E72F534D5cAb5582#code
